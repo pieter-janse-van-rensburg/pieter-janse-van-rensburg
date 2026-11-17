@@ -1,5 +1,3 @@
-# Pieter Janse van Rensburg
-
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:102A43,100:176B9A&height=220&section=header&text=Pieter%20Janse%20van%20Rensburg&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ACTUARIAL%20LEADERSHIP%20%7C%20FINANCIAL%20SERVICES%20%7C%20TECHNOLOGY&descSize=14&descAlignY=60&descColor=D6EAF8)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://za.linkedin.com/in/pieterjvr)
