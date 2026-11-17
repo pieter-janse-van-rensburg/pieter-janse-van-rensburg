@@ -78,24 +78,6 @@ I'm interested in projects involving:
 
 ---
 
-## 📊 GitHub Analytics
-
-| GitHub Statistics | Most Used Languages |
-|---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pieter-janse-van-rensburg&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&rank_icon=github) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pieter-janse-van-rensburg&layout=compact&hide_border=true&theme=github_dark&langs_count=8) |
-
-### Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pieter-janse-van-rensburg&theme=github-dark-blue&hide_border=true)
-
-### Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pieter-janse-van-rensburg&theme=github-compact&hide_border=true&area=true)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=pieter-janse-van-rensburg&style=flat-square&color=176B9A&label=PROFILE+VIEWS)
-
 *Combining actuarial expertise, analytical thinking and engineering to build better solutions.*
 
 ![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:176B9A,100:0D1117&height=65&section=footer)
