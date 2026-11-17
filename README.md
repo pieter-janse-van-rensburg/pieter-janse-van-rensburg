@@ -7,13 +7,13 @@
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/PieterJansevanRensburg)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/pieter07/)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Actuary+%7C+Chartered+Enterprise+Risk+Analyst;Financial+Services+%7C+Valuations+%7C+Capital+Management;Software+Engineering+%7C+AI+%7C+Technology+Transformation)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Actuary+%7C+Chartered+Enterprise+Risk+Actuary;Financial+Services+%7C+Valuations+%7C+Capital+Management;Software+Engineering+%7C+AI+%7C+Technology+Transformation)
 
 ---
 
 ## 👋 About Me
 
-I'm an **Actuarial Manager and Chartered Enterprise Risk Analyst (CERA)** with 9+ years of actuarial experience and 5+ years of management and leadership experience in the financial services and insurance industry.
+I'm an **Actuarial Manager and Chartered Enterprise Risk Actuary (CERA, AMASSA)** with 9+ years of actuarial experience and 5+ years of management and leadership experience in the financial services and insurance industry.
 
 My work sits at the intersection of actuarial science, financial risk management and technology. I'm particularly interested in using software engineering, automation and artificial intelligence to solve complex financial and actuarial problems.
 
